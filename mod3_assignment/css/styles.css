@@ -1,0 +1,40 @@
+body {
+	font-size: 16px;
+	font-family: helvetica;
+}
+
+#header-nav {
+	background-color: grey;
+	border-radius: 0;
+	border: 1px;
+	border-color: black;
+	height: 80px;
+
+}
+.container {
+	background-color: grey;
+}
+.navbar-brand a {
+	color: black;
+	font-weight: bold;
+	text-align: left;
+	margin-top: 0;
+	margin-bottom: 0;
+
+}
+.navbar-brand a:hover, .navbrand-brand a:focus {
+	text-decoration: none;
+}
+#nav-list {
+	background-color: pink;
+	font-weight: bold;
+	text-align: center;
+
+}
+p{
+	font-weight: bold;
+	font-size: 1.5em;
+}
+div p{
+	font size: 0.8em;
+}
